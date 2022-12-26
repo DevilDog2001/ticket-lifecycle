@@ -23,12 +23,12 @@ This tutorial outlines the lifecycle of a ticket from intake to resolution withi
 - Resolution
 
 <h2>Lifecycle Stages</h2>
-
+<p>This is the installation portion of the osTicket Lab. If you missed the previous steps here is the <a href="https://github.com/DevilDog2001/osTicket-configurations/blob/main/README.md">Link.</a></p>
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/OLvSCQq.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+First on the user page we will want to open a new ticket. From there we will login as one of the created users for the lab and create a ticket like showen above.
 </p>
 <br />
 
