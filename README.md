@@ -55,9 +55,18 @@ Next as the agent we will open the ticket. Within the ticket we can assign the t
 </p>
 <br />
 <p>
-<img src="https://i.imgur.com/7C0KZl9.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/WI850KT.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-.
+When looking back on the transfered ticket we can see something interesting. This photo above shows that when every this is a modification to the ticket as well as a comment it is posted and docummented on the osTicket system.
 </p>
 <br />
+<p>
+<img src="https://i.imgur.com/2KWVom7.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+The finally portion of the osticking would be the ticket status section within the ticket. Here we can decided depending on the situation to leave the ticket Open and further comment on the ticket to gain information on the steps to resolve the ticket, resolve the ticket to complete it and or close the ticket because it was either resolved or a false problem. When done leaving a comment with the status as resolved the ticket will clear and be gone from the agents ticket page. 
+</p>
+<br />
+
+<p>Thank you for reading my osTicket Lab. This Lab was done within a 24 hour period due to osTicket long and vigorous installation process but was well worth the experince. Would recommend and continue to practice.</p>
