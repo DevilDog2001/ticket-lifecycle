@@ -33,17 +33,31 @@ First on the user page we will want to open a new ticket. From there we will log
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/I2z6HbR.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+Next we will head back to the agent login at <strong>(http://localhost/osTicket/scp/index.php)</strong>. There we will login as one of are agents to review are recently created ticket.
 </p>
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/7C0KZl9.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+Before logging into the agent make such as admin that the agent you are logging into has access to edit tickets.
+</p>
+<br />
+<p>
+<img src="https://i.imgur.com/jsPz0Ju.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+Next as the agent we will open the ticket. Within the ticket we can assign the ticket to the current agent as well as change the status and priority. After changing the information we have the option to transfer the ticket over to anther department as shown above.
+</p>
+<br />
+<p>
+<img src="https://i.imgur.com/7C0KZl9.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+.
 </p>
 <br />
