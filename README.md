@@ -69,4 +69,4 @@ The finally portion of the osticking would be the ticket status section within t
 </p>
 <br />
 
-<p>Thank you for reading my osTicket Lab. This Lab was done within a 24 hour period due to osTicket long and vigorous installation process but was well worth the experince. Would recommend and continue to practice.</p>
+<p>Thank you for reading my osTicket Lab. This Lab osTicket was well worth the experince. Would recommend to fellow peers and continue to practice.</p>
